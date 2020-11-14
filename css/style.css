@@ -7,6 +7,23 @@ body{
     padding: 0;
 }
 
+#cabecera{
+    font-family: 'Nagaro', sans-serif;
+    text-align: left;
+    background: cornflowerblue;
+    box-shadow: 5px 5px 30px -10px #4d4d4d;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    padding: 0.5rem;
+}
+
+#Tagline{
+    font-family: 'Roboto Mono', monospace;
+    margin: 0 0 0 1em;
+    font-weight: normal;
+}
+
 #container {
     width: 70%;
     padding: 1em;
