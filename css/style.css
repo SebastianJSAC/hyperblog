@@ -1,5 +1,6 @@
 body{
-    color: red;
+    background: grey;
+    color: black;
     text-align: center;
     font-family: 'Labtop Down Under', sans-serif;
     font-size: 20px;
@@ -15,7 +16,12 @@ body{
     font-weight: bold;
     color: white;
     margin: 0;
-    padding: 0.5rem;
+    padding: 0.5em;
+}
+
+#cabecera #logo{
+    width: 60px;
+    vertical-align: middle;
 }
 
 #Tagline{
@@ -28,7 +34,7 @@ body{
     width: 70%;
     padding: 1em;
     text-emphasis: left;
-    border: 2px solid coral;
+    background-color: white;
     margin: 0 auto;
 }
 
